@@ -2,5 +2,5 @@ streamlit
 langchain
 langchain_groq
 langchain_community
-dotenv\
+dotenv
 typing
